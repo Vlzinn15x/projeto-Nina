@@ -1,0 +1,14 @@
+body {
+   background-image: url(/1625184974_11-kartinkin-com-p-fon-mainkraft-dlya-prevyu-krasivie-foni-12.png);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Login {
+    width: 200px;
+    padding: 20px;
+    align-items: center;
+
+}
